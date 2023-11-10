@@ -3,3 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - esmvaltool=2.9.0
+  - ipykernel
